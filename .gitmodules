@@ -1,6 +1,6 @@
 [submodule "SwiftyJSON"]
 	path = SwiftyJSON
-	url = https://github.com/SwiftyJSON/SwiftyJSON.git
+url=https://github.com/macteo/SwiftyJSON.git
 [submodule "Alamofire"]
 	path = Alamofire
-	url = https://github.com/Alamofire/Alamofire.git
+url=https://github.com/macteo/Alamofire.git
